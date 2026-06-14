@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=From+Zero+to+Elite+SOC+Analyst+in+24+Weeks+🚀;14+Projects+•+42+Resume+Bullets+•+CISO-Path+Aligned+🎯;Automation-First+•+AI-Powered+•+Purple+Team+Ready+⚔️" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&repeat=true&width=700&height=55&lines=From+Zero+to+Elite+SOC+Analyst+in+24+Weeks;14+Projects+%E2%80%A2+42+Resume+Bullets+%E2%80%A2+CISO-Path+Aligned;Automation-First+%E2%80%A2+AI-Powered+%E2%80%A2+Purple+Team+Ready" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -550,7 +550,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=2EA043&center=true&vCenter=true&repeat=true&width=600&lines=Stop+Reading.+Start+Executing.+🔒;Your+CISO+career+starts+TODAY.+🚀;14+Projects+Away+From+Elite.+👑" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=2EA043&center=true&vCenter=true&repeat=true&width=600&height=55&lines=Stop+Reading.+Start+Executing.;Your+CISO+career+starts+TODAY.;14+Projects+Away+From+Elite." alt="Typing SVG" /></a>
 
 <br/><br/>
 
