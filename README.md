@@ -22,6 +22,18 @@
 
 <br/>
 
+### 🔥 Featured Hands-On Project
+
+<a href="https://github.com/Ak-cybe/splunk-hands-on-project">
+<img src="https://img.shields.io/badge/🛡️_Splunk_SIEM_—_8_Dashboards-View_Project-1f6feb?style=for-the-badge&logo=splunk&logoColor=white&labelColor=0d1117" alt="Splunk Dashboard Project"/>
+</a>
+
+> **📊 [Splunk SIEM — 8 Dashboard Hands-On Project](https://github.com/Ak-cybe/splunk-hands-on-project)**
+> SSH Brute-Force • Web Traffic • DNS • FTP • SMTP • DHCP • Tunnel • AWS GuardDuty
+> `8,701 sample events` · `SPL queries` · `Importable XML` · `MITRE ATT&CK mapped`
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
